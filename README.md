@@ -1,5 +1,4 @@
-# Machine_Learning_Specialization
-# Machine Learning Course Code
+# Machine_Learning_Specialization_Course
 
 This repository contains the code, exercises, and projects I completed while learning Machine Learning.
 
